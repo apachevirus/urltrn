@@ -1,0 +1,2 @@
+# urltrn
+static site
